@@ -15,5 +15,4 @@ stages {
         sh 'sleep 40'
         }
       }
-}
-}
+   }     
